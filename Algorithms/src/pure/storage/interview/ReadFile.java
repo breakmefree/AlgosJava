@@ -1,0 +1,10 @@
+package pure.storage.interview;
+
+public class ReadFile {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
